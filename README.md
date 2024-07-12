@@ -9,7 +9,7 @@ Source code will not be shared here because of safety reasons and NDA. However, 
 Typescript, Javascript, React, Mantine, Zod, Hooks
 
 # Features
-Asynchronous communication with backend via RESTful API, usage of hooks, validation of user input, DTOs, authorization, autentization, tokens, 
+Asynchronous communication with backend via RESTful API, usage of hooks, validation of user input, DTOs, authorization, tokens, 
 conditional fetching, calendars, pleasant UI
 
 # Team work
